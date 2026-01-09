@@ -1,7 +1,7 @@
 # Hi 👋 I'm Minh Vinh
 
 🎓 Electronics & Telecommunications Engineer (HCMUT)  
-🔧 Embedded Software Developer | IoT Enthusiast  
+🔧 Embedded Software Developer,   
 
 ## 🔹 About Me
 - Recently graduated in Electronics and Telecommunications Engineering
@@ -17,9 +17,8 @@
 
 ## 🔹 Projects
 - 🏠 Smart Home Gateway with Home Assistant & MQTT
-- 📷 ESP32-CAM AI Person Detection
+- 📷 Camera AI Person Detection
 - 📡 IoT Sensor Network using MQTT / MQTT-SN
 
 ## 📫 Contact
-- Email: your_email@gmail.com
-- LinkedIn: https://linkedin.com/in/yourname
+- Email: tvminh1410@gmail.com
