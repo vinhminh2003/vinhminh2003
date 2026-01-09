@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Minh Vinh
 
-<!--
-**vinhminh2003/vinhminh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Telecommunications Engineer (HCMUT)  
+🔧 Embedded Software Developer | IoT Enthusiast  
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- Recently graduated in Electronics and Telecommunications Engineering
+- Passionate about Embedded Systems, IoT, and Communication Technologies
+- Interested in ESP32, Raspberry Pi, MQTT, Linux, DSP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Technical Skills
+- **Embedded**: ESP32, Arduino, PIC, STM32
+- **Protocols**: UART, SPI, I2C, MQTT, HTTP
+- **OS & Tools**: FreeRTOS, ESP-IDF, Linux
+- **Languages**: C/C++, Python
+- **Platforms**: Home Assistant, Raspberry Pi
+
+## 🔹 Projects
+- 🏠 Smart Home Gateway with Home Assistant & MQTT
+- 📷 ESP32-CAM AI Person Detection
+- 📡 IoT Sensor Network using MQTT / MQTT-SN
+
+## 📫 Contact
+- Email: your_email@gmail.com
+- LinkedIn: https://linkedin.com/in/yourname
