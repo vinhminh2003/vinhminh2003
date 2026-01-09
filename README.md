@@ -1,4 +1,4 @@
-# Hi 👋 I'm Minh Vinh
+# Hi 👋 I'm Minh
 
 🎓 Electronics & Telecommunications Engineer (HCMUT)  
 🔧 Embedded Software Developer
