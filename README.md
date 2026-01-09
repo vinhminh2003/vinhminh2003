@@ -1,7 +1,7 @@
 # Hi 👋 I'm Minh Vinh
 
 🎓 Electronics & Telecommunications Engineer (HCMUT)  
-🔧 Embedded Software Developer,   
+🔧 Embedded Software Developer
 
 ## 🔹 About Me
 - Recently graduated in Electronics and Telecommunications Engineering
